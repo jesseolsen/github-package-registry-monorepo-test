@@ -1,11 +1,11 @@
 {
   "name": "@jesseolsen/github-package-registry-monorepo-test-package2",
-  "version": "1.0.22",
+  "version": "1.0.23",
   "description": "package2 of github package registry monorepo test",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/raspy8766/github-package-registry-monorepo-test.git"
+    "url": "https://github.com/jesseolsen/github-package-registry-monorepo-test.git"
   },
-  "gitHead": "b71b4fc4abc364f32fd648381763ed39af688260"
+  "gitHead": "ad4547fc2dd8e2526a3d78729e51a6dbc622eaca"
 }

@@ -9,7 +9,7 @@
       "registry": "https://npm.pkg.github.com",
       "repository": {
         "type": "git",
-        "url": "https://github.com/raspy8766/github-package-registry-monorepo-test.git"
+        "url": "https://github.com/jesseolsen/github-package-registry-monorepo-test.git"
       }
     },
     "bootstrap": {
@@ -17,5 +17,5 @@
     }
   },
   "useWorkspaces": true,
-  "version": "1.0.22"
+  "version": "1.0.23"
 }
